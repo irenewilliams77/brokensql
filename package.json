@@ -1,0 +1,23 @@
+{
+  "name": "brokensql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "insert.js",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenewilliams77/brokensql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irenewilliams77/brokensql/issues"
+  },
+  "homepage": "https://github.com/irenewilliams77/brokensql#readme"
+}

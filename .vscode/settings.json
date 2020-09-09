@@ -12,6 +12,20 @@
             "previewLimit": 50,
             "server": "localhost",
             "username": "root"
+        },
+        {
+            "database": "week11",
+            "driver": "MySQL",
+            "group": "localhost",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "11sql",
+            "password": "root",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
         }
     ]
 }
